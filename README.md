@@ -1,3 +1,26 @@
 # React Scroll Ripple Effect
 
-### This is a light component that the dot ripple will be triggled by scrollto the div.
+## What is this?
+> This is a light commponet of dot ripple effect
+> which will be triggered by scroll to the specific section. 
+
+## Example
+
+
+'''
+git clone https://github.com/ju5td0m7m1nd/react-scroll-ripple-effect.git
+
+cd ./react-scroll-ripple-effect/
+
+npm install
+
+npm start
+'''
+> And the example will be at the http://localhost:4000/
+
+> *OR*
+
+> See [Online Demo](http://www.ju5td0m7m1nd.com/entertainment)
+## Usage
+
+
