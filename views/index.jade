@@ -1,0 +1,10 @@
+extends layout
+
+block content
+    div(id="scrollhook")
+    - for ( var i = 0 ; i < 5 ; i++){
+    section(class="page")
+        h1= title
+        p Welcome to #{title}
+    - }
+    script(src="javascripts/build/bundle.js")  

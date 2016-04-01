@@ -33,7 +33,7 @@ const styles = {
         top:'30%',
         right:'10%',
         padding:'15px',
-    } 
+    },
 }
 
 const ScrollBlock = React.createClass({
