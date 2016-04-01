@@ -1,7 +1,7 @@
 # React Scroll Ripple Effect
 
 ## What is this?
-> This is a light commponet of dot ripple effect
+> This is a light component of dot ripple effect
 > which will be triggered by scroll to the specific section. 
 
 ## Example
