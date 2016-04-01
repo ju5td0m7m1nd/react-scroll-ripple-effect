@@ -20,7 +20,7 @@ And the example will be at the http://localhost:4000/
 
 *OR*
 
-See [Online Demo](http://www.ju5td0m7m1nd.com/entertainment){:target="_blank"}
+See <a href="http://www.ju5td0m7m1nd.com/entertainment" target="_blank">Online Demo</a>
 
 ## Usage
 
