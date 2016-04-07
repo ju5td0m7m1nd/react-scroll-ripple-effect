@@ -19,7 +19,9 @@ npm start
 And the example will be at the http://localhost:4000/
 
 *OR*
+
 ![](http://i.giphy.com/PR1oytgnRS6nm.gif)
+
 See <a href="http://www.ju5td0m7m1nd.com/entertainment" target="_blank">Online Demo</a>
 
 ## Usage
